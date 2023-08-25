@@ -1,0 +1,84 @@
+.home-page {
+  overflow: hidden;
+}
+
+.homepage-left > .left-first {
+  letter-spacing: 0.2rem;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.homepage-left > .left-second {
+  letter-spacing: 0.5rem;
+  font-size: 100px;
+}
+
+.explore-button {
+  padding: 70px 30px;
+  color: black;
+  letter-spacing: 0.2rem;
+  border-radius: 50%;
+  margin: 150px 250px;
+  border: 1px solid white;
+}
+
+.destination-left,
+.crew-left {
+  padding: 0px 100px;
+}
+
+.destination-right-bottom {
+  margin-left: 70px;
+  padding: 0 20px;
+}
+
+.destination-right-header {
+  font-size: 50px;
+}
+
+.crew-left-first,
+.destinationleft-first,
+.tech-left-header {
+  letter-spacing: 0.2rem;
+}
+
+.crew-left-second > h2,
+p {
+  color: rgba(255, 255, 255, 0.487);
+}
+
+.crew-right > img {
+  margin-left: 60px;
+}
+
+.destination-right > nav {
+  margin: 30px 100px;
+  padding: 30px;
+  display: flex;
+  gap: 20px;
+}
+
+#tech-button {
+  padding: 20px 30px;
+  border-radius: 50%;
+  border: 0px solid inherit;
+  background-color: inherit;
+}
+
+.tech-left-header {
+  padding: 0 60px;
+}
+
+.crew-buttons {
+  margin-top: 100px;
+  margin-left: 30px;
+}
+
+#crew-button {
+  padding: 12px;
+  border-radius: 50%;
+  background-color: rgb(65, 63, 63);
+}
+
+#crew-button:focus {
+  background-color: white;
+}
