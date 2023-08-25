@@ -1,7 +1,10 @@
-<<<<<<< HEAD
+## SPACE WEB APP WITH REACT JS USING ROUTES
+
 ## SPACE TOURISM WEB APP WITH REACT USING ROUTE
+
 =======
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/35yazvC9)
+
 # Space Tourism Web App
 
 ![Preview](./preview.jpg)
@@ -12,9 +15,10 @@
 
 ---
 
-Task 
+Task
+
 1. Use codes and asstest inside compressed file `starter-code.zip`
 2. Convert HTML codes to React `JSX` codes
 3. Implement routing with `react-router`
 4. Feel free to use and method of styling. You can use `styled-components`, `sass`, `module.css`...
->>>>>>> cdf3d99b1b37b46c0146b33f8c341a03ac6fb884
+   > > > > > > > cdf3d99b1b37b46c0146b33f8c341a03ac6fb884
